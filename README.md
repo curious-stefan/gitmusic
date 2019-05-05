@@ -1,4 +1,4 @@
-###Git Music
+### Git Music
 
 One of the biggest problems in the music industry today is that there is no coherent and robust documentation of ownership rights.  Information about ownership which is stored in Metadata can be lost during communication, collaboration and distribution. Faulty or missing information leads to unclear ownership, making rights management and licensing a liability.
 
